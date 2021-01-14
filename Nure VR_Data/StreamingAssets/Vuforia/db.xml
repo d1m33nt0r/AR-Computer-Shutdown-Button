@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="52352" size="1.000000 0.450000" />
+    <ImageTarget name="235" size="1.000000 0.787307" />
+    <ImageTarget name="124" size="1.000000 0.787307" />
+    <ImageTarget name="12412" size="1.000000 0.750000" />
+    <ImageTarget name="photo_2020-12-20_14-14-13" size="1.000000 0.750000" />
+    <ImageTarget name="412" size="1.000000 1.037931" />
+    <ImageTarget name="kjho1" size="1.000000 0.514286" />
+    <ImageTarget name="kugiu1" size="1.000000 0.514286" />
+    <ImageTarget name="Untitled-5" size="1.000000 0.846890" />
+    <ImageTarget name="Untitled-4" size="1.000000 0.588785" />
+    <ImageTarget name="Untitled-33" size="1.000000 1.365931" />
+    <ImageTarget name="Untitled-3" size="1.000000 1.365931" />
+    <ImageTarget name="Untitled-2" size="1.000000 0.804487" />
+    <ImageTarget name="unknown" size="1.000000 0.837607" />
+    <ImageTarget name="Untitled-1" size="1.000000 0.227612" />
+    <ImageTarget name="Screenshot_1" size="1.000000 0.557093" />
+  </Tracking>
+</QCARConfig>
